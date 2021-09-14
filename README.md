@@ -4,6 +4,11 @@ I am _Adam Horvath-Reparszky_, a proactive Machine Learning Engineer at [Lalalan
 
 My goal is to utilize my knowledge of data science, machine learning and deep learning to solve emerging problems that can have a positive influence on our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
 
+## 🙏 My Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=DataScienceThesis&title_color=2bbc8a)](https://github.com/AdamHorvath12/DataScienceThesis)
+
+
 ## 📈 GitHub Stats
 
 <a href="#">
