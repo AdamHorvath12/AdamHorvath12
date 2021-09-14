@@ -9,6 +9,8 @@ My goal is to utilize my knowledge of data science, machine learning and deep le
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Data-Science-Master-Thesis&title_color=2bbc8a)](https://github.com/AdamHorvath12/DataScienceThesis)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Python-Projects&title_color=2bbc8a)](https://github.com/AdamHorvath12/Python-Projects)
+
 
 ## 📈 GitHub Stats
 
