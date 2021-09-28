@@ -11,6 +11,8 @@ My goal is to utilize my knowledge of data science, machine learning and deep le
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=ML_webapp_predict_hospitaliation&title_color=2bbc8a)](https://github.com/AdamHorvath12/ML_webapp_predict_hospitaliation)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Heart-Disease-Prediction&title_color=2bbc8a)](https://github.com/AdamHorvath12/Heart-Disease-Prediction)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Python-Projects&title_color=2bbc8a)](https://github.com/AdamHorvath12/Python-Projects)
 
 
