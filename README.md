@@ -11,7 +11,7 @@ My goal is to utilize my knowledge of data science, machine learning and deep le
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=ML_webapp_predict_hospitaliation&title_color=2bbc8a)](https://github.com/AdamHorvath12/ML_webapp_predict_hospitaliation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=NLP_Analysis_of_Tweets&title_color=2bbc8a)](https://github.com/AdamHorvath12/NLP_Analysis_of_Tweets)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Heart-Disease-Prediction&title_color=2bbc8a)](https://github.com/AdamHorvath12/Heart-Disease-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=House_price_predictionn&title_color=2bbc8a)](https://github.com/AdamHorvath12/House_price_prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=House_price_prediction&title_color=2bbc8a)](https://github.com/AdamHorvath12/House_price_prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Medical-Appointment-No-Shows&title_color=2bbc8a)](https://github.com/AdamHorvath12/Medical-Appointment-No-Shows)
 
 
