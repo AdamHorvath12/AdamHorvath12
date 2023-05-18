@@ -1,6 +1,13 @@
 # 🙌 Hello there!
 
-I am _Adam Horvath-Reparszky_, a proactive Machine Learning Engineer at [Lalaland](https://lalaland.ai/) in Amsterdam, who is highly motivated to acquire more real-life aspects of the field. I graduated in 2021 from the [University of Amsterdam](https://www.uva.nl/) with a Master of Science degree in Data Science.
+I am _Adam Horvath-Reparszky_, a proactive Data Scientist at [Adaptfy](https://adaptfy.com) in Amsterdam, who is highly motivated to acquire more real-life aspects of the field. I regularly take part in data science related events and competitions. I am constantly seeking opportunities to sharpen my skills therefore I am an active user of platforms such as [Kaggle](https://www.kaggle.com/) or [MachineRank](https://machinehack.com/feed) where I can face different problems and learn from other highly skilled engineers.
+
+Recent competitions that I participated in are the following: 
+* [The great real estate data challenge](https://machinehack.com/hackathons/the_great_real_estate_data_challenge/overview)
+* [Prediction of wild blueberry yield](https://www.kaggle.com/competitions/playground-series-s3e14)
+* [Feature Imputation with a Heat Flux Dataset](https://www.kaggle.com/competitions/playground-series-s3e15)
+
+I graduated in 2021 from the [University of Amsterdam](https://www.uva.nl/) with a Master of Science degree in Data Science.
 
 My goal is to utilize my knowledge of data science, machine learning and deep learning to solve emerging problems that can have a positive influence on our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
 
@@ -10,7 +17,6 @@ My goal is to utilize my knowledge of data science, machine learning and deep le
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Data-Science-Master-Thesis&title_color=2bbc8a)](https://github.com/AdamHorvath12/DataScienceThesis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Predict_Auto_MPG&title_color=2bbc8a)](https://github.com/AdamHorvath12/Predict_Auto_MPG)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Heart-Disease-Prediction&title_color=2bbc8a)](https://github.com/AdamHorvath12/Heart-Disease-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Restaurant_review_sentiment_analysis&title_color=2bbc8a)](https://github.com/AdamHorvath12/Restaurant_review_sentiment_analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=House_price_prediction&title_color=2bbc8a)](https://github.com/AdamHorvath12/House_price_prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=NLP_Analysis_of_Tweets&title_color=2bbc8a)](https://github.com/AdamHorvath12/NLP_Analysis_of_Tweets)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHorvath12&repo=Medical-Appointment-No-Shows&title_color=2bbc8a)](https://github.com/AdamHorvath12/Medical-Appointment-No-Shows)
