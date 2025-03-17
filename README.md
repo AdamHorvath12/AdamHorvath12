@@ -1,11 +1,10 @@
 # 🙌 Hello there!
 
-I am _Adam Horvath-Reparszky_, a proactive Data Scientist at [Adaptfy](https://adaptfy.com) in Amsterdam, who is highly motivated to acquire more real-life aspects of the field. I regularly take part in data science related events and competitions. I am constantly seeking opportunities to sharpen my skills therefore I am an active user of platforms such as [Kaggle](https://www.kaggle.com/) or [MachineRank](https://machinehack.com/feed) where I can face different problems and learn from other highly skilled engineers.
+I am _Adam Horvath-Reparszky_, a proactive Data Scientist at [Dott](https://ridedott.com/) in Amsterdam, who is highly motivated to acquire more real-life aspects of the field. I regularly take part in data science related events and competitions. I am constantly seeking opportunities to sharpen my skills therefore I am an active user of platforms such as [Kaggle](https://www.kaggle.com/) where I can face different problems and learn from other highly skilled engineers.
 
-Recent competitions that I participated in are the following: 
-* [The great real estate data challenge](https://machinehack.com/hackathons/the_great_real_estate_data_challenge/overview)
-* [Prediction of wild blueberry yield](https://www.kaggle.com/competitions/playground-series-s3e14)
-* [Feature Imputation with a Heat Flux Dataset](https://www.kaggle.com/competitions/playground-series-s3e15)
+Recent competitions that I participated in are the following:
+* [Predict Energy Behavior of Prosumers](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data)
+* [Problematic Internet Usage](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use)
 
 I graduated in 2021 from the [University of Amsterdam](https://www.uva.nl/) with a Master of Science degree in Data Science.
 
